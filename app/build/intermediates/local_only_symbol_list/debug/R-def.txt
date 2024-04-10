@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_action_name
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addressEt
+id contactsLv
+id emailEt
+id nameEt
+id phoneEt
+id saveBt
+id toolbar
+id toolbarIn
+id viewMi
+layout activity_contact
+layout activity_main
+layout toolbar
+menu menu_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ContactsPdm
+style Theme.ContactsPdm
+xml backup_rules
+xml data_extraction_rules

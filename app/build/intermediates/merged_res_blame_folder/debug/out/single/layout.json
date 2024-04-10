@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.contactspdm.app-mergeDebugResources-30:/layout/activity_contact.xml",
+        "source": "com.example.contactspdm.app-main-33:/layout/activity_contact.xml"
+    },
+    {
+        "merged": "com.example.contactspdm.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.contactspdm.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.contactspdm.app-mergeDebugResources-30:/layout/toolbar.xml",
+        "source": "com.example.contactspdm.app-main-33:/layout/toolbar.xml"
+    }
+]
