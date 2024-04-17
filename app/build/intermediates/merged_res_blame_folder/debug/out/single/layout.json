@@ -10,5 +10,9 @@
     {
         "merged": "com.example.contactspdm.app-mergeDebugResources-30:/layout/toolbar.xml",
         "source": "com.example.contactspdm.app-main-33:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.contactspdm.app-mergeDebugResources-30:/layout/tile_contact.xml",
+        "source": "com.example.contactspdm.app-main-33:/layout/tile_contact.xml"
     }
 ]

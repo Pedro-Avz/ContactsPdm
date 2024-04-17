@@ -3,6 +3,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">ContactsPdm</string>
+    <string name="edit_contact">Editar Contato</string>
+    <string name="email">email</string>
+    <string name="name">Name</string>
+    <string name="remove_contact"> Remover Contato</string>
     <style name="Base.Theme.ContactsPdm" parent="Theme.Material3.DayNight.NoActionBar">
         
         

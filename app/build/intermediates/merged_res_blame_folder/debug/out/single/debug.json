@@ -52,8 +52,16 @@
         "source": "com.example.contactspdm.app-main-33:/drawable-anydpi/ic_action_name.xml"
     },
     {
+        "merged": "com.example.contactspdm.app-merged_res-31:/menu_context_menu_main.xml.flat",
+        "source": "com.example.contactspdm.app-main-33:/menu/context_menu_main.xml"
+    },
+    {
         "merged": "com.example.contactspdm.app-merged_res-31:/mipmap-anydpi_ic_launcher.xml.flat",
         "source": "com.example.contactspdm.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.contactspdm.app-merged_res-31:/layout_tile_contact.xml.flat",
+        "source": "com.example.contactspdm.app-main-33:/layout/tile_contact.xml"
     },
     {
         "merged": "com.example.contactspdm.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",

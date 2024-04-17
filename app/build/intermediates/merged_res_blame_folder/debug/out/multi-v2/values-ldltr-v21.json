@@ -4,7 +4,7 @@
             "outputFile": "com.example.contactspdm.app-mergeDebugResources-29:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\ff3e7a6cbd6877b655429719bd7e51c8\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "/home/aluno/.gradle/caches/transforms-3/ff3e7a6cbd6877b655429719bd7e51c8/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
