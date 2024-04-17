@@ -25,10 +25,10 @@ class MainActivity : AppCompatActivity() {
         ActivityMainBinding.inflate(layoutInflater)
     }
 
-    // Data source
+    // data source
     private val contactList: MutableList<Contact> = mutableListOf()
 
-    // Adapter
+    // adapter
     private val contactAdapter: ContactAdapter by lazy {
         ContactAdapter(this, contactList
         )
